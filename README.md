@@ -5,7 +5,7 @@ This class is designed to crush U.S. postal addresses into a standard format.
  
 Make address.class.php and address.idx.php are in the same directory.
   
-## Examples
+## Example
 
 	require_once('address.class.php'); 		
 	$addressParser = new AddressParser();
