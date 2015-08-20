@@ -3,7 +3,7 @@ An old class for normalizing addresses into little strings.
 
 This class is designed to crush U.S. postal addresses into a standard format.
  
-Make sure this file and address.idx.php are in the same directory.
+Make address.class.php and address.idx.php are in the same directory.
   
 ## Examples
 
